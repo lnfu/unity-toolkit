@@ -27,6 +27,11 @@ namespace lnfu
 		    ReplacePackageFile(contents);
 	    }
 
+	    [MenuItem("Tools/Setup/Copy Sample Assets")]
+		public static void CopySampleAssets()
+		{
+		}
+
 	    static void CreateDirectories(string root, params string[] dir)
 	    {
 		    var fullpath = Combine(dataPath, root);
