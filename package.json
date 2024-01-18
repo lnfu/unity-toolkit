@@ -1,12 +1,5 @@
 {
 	"name": "com.lnfu.toolkit",
 	"version": "1.0.0",
-	"displayName": "LNF's Toolkit",
-    "samples": [
-        {
-            "displayName": "Basic Scenes",
-            "description": "Basic scenes (main menu, persistent scene)",
-            "path": "Samples~/Basic"
-        }
-    ]
+	"displayName": "LNF's Toolkit"
 }
