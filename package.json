@@ -5,8 +5,8 @@
     "samples": [
         {
             "displayName": "Basic Scenes",
-            "description": "",
-            "path": "Samples~"
+            "description": "Basic scenes (main menu, persistent scene)",
+            "path": "Samples~/Basic"
         }
     ]
 }
