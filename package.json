@@ -2,4 +2,11 @@
 	"name": "com.lnfu.toolkit",
 	"version": "1.0.0",
 	"displayName": "LNF's Toolkit"
+    "samples": [
+        {
+            "displayName": "Basic Scenes",
+            "description": "",
+            "path": "Samples~"
+        }
+    ]
 }
